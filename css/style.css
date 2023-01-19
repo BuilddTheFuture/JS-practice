@@ -1,0 +1,24 @@
+.line-through {
+    text-decoration: line-through;
+}
+
+.hidden {
+    display: none;
+}
+
+.color1 {
+	color: red;
+    font-size: 20px;
+}
+.color2 {
+	background: green;
+}
+.color3 {
+	background: yellow;
+}
+
+td {
+    border: 1px solid black;   
+    padding: 20px; 
+}
+
